@@ -2,3 +2,4 @@
 SELECT name 
 	FROM public_books
 	WHERE public_books.year = 2018
+	ORDER BY name
